@@ -1,5 +1,5 @@
 # 概要
-APPRENTICEの入学課題です。
+APPRENTICEの入学課題の回答です。
 ## 試した環境
 * macOS
 * AWS cloud9

@@ -3,7 +3,7 @@ APPRENTICEの入学課題の回答です。
 ## 試した環境
 * macOS
 * AWS cloud9
-* ubuntu
+* Ubuntu
 ## 入出力の例
 ### Add Password　↓ 
 #### <img width="585" alt="スクリーンショット 2024-02-18 17 37 52" src="https://github.com/Aoioa7/APPRENTICE_web_test/assets/149755797/270498cb-b3fe-4894-9704-09862a05637a">

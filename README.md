@@ -2,7 +2,7 @@
 APPRENTICEの入学課題の回答です。
 ## 試した環境
 * macOS
-* AWS cloud9
+* AWS Cloud9
 * Ubuntu
 ## 入出力の例
 ### Add Password　↓ 

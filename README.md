@@ -1,5 +1,5 @@
 # 概要
-APPRENTICEの入学課題の回答です。
+APPRENTICEのwebテストでパスワードマネージャを作りました。
 ## 試した環境
 * macOS
 * AWS Cloud9
